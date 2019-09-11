@@ -4,3 +4,7 @@ chicken curry
 Aayra
 Suman 
 Pardeep
+
+
+java
+oracle
